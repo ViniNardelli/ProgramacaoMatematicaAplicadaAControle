@@ -1,0 +1,1 @@
+from programacao_linear.modelo import Modelo
